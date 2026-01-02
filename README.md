@@ -1,2 +1,2 @@
 # pdfremarks
-Do remarks on uloaded pdf-files in form of text and graphical annotations
+Do remarks on uploaded pdf-files in form of text and graphical annotations
